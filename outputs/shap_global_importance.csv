@@ -1,0 +1,46 @@
+feature,mean_abs_shap
+categorical__Contract_Month-to-month,0.68729544
+numeric__tenure,0.44091704
+numeric__MonthlyCharges,0.31418228
+categorical__OnlineSecurity_No,0.25615212
+numeric__TotalCharges,0.2520233
+categorical__TechSupport_No,0.20782998
+categorical__InternetService_Fiber optic,0.18008727
+categorical__Contract_Two year,0.17948107
+categorical__PaymentMethod_Electronic check,0.15216394
+categorical__PaperlessBilling_No,0.11210222
+categorical__OnlineBackup_No,0.08501743
+categorical__MultipleLines_No,0.08316036
+categorical__StreamingMovies_Yes,0.07340684
+numeric__SeniorCitizen,0.063333265
+categorical__Dependents_No,0.061649982
+categorical__Contract_One year,0.057675995
+categorical__DeviceProtection_Yes,0.036910314
+categorical__gender_Female,0.03629845
+categorical__MultipleLines_Yes,0.034588043
+categorical__StreamingTV_Yes,0.033181045
+categorical__PaperlessBilling_Yes,0.028889572
+categorical__PaymentMethod_Mailed check,0.028752629
+categorical__DeviceProtection_No,0.024943486
+categorical__PaymentMethod_Credit card (automatic),0.024123985
+categorical__InternetService_DSL,0.02213674
+categorical__Partner_No,0.02181315
+categorical__TechSupport_Yes,0.02034855
+categorical__PaymentMethod_Bank transfer (automatic),0.019698817
+categorical__InternetService_No,0.018281767
+categorical__PhoneService_No,0.017508138
+categorical__OnlineBackup_Yes,0.015732931
+categorical__StreamingMovies_No,0.013468898
+categorical__Dependents_Yes,0.012674778
+categorical__gender_Male,0.011218142
+categorical__StreamingTV_No,0.011145377
+categorical__OnlineSecurity_Yes,0.0073452997
+categorical__Partner_Yes,0.00643026
+categorical__OnlineSecurity_No internet service,0.0022365723
+categorical__PhoneService_Yes,0.0017201254
+categorical__MultipleLines_No phone service,0.00066598714
+categorical__OnlineBackup_No internet service,0.0
+categorical__StreamingTV_No internet service,0.0
+categorical__TechSupport_No internet service,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__StreamingMovies_No internet service,0.0

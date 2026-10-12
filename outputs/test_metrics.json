@@ -1,0 +1,12 @@
+{
+    "selected_threshold": 0.35,
+    "accuracy": 0.7601135557132718,
+    "precision": 0.5387931034482759,
+    "recall": 0.6684491978609626,
+    "f1": 0.5966587112171837,
+    "roc_auc": 0.8213154563538195,
+    "average_precision": 0.6127301033378695,
+    "train_rows": 4225,
+    "validation_rows": 1409,
+    "test_rows": 1409
+}
