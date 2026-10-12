@@ -1,6 +1,11 @@
 # Customer Churn Explainer using XGBoost and SHAP
 
 An end-to-end machine learning project that predicts customer churn, explains individual predictions using SHAP, and provides business-focused customer retention recommendations through an interactive Streamlit dashboard.
+## 🚀 Live Demo
+
+[Launch Customer Churn Explainer](https://customer-churn-explainer-wtnptvop6brxfgxncvxzer.streamlit.app/)
+
+Explore customer churn predictions, individual SHAP explanations, global feature importance, and business analytics through the interactive dashboard.
 
 ## Project Overview
 
@@ -165,8 +170,3 @@ Streamlit will display a local URL in the terminal. Open that URL in your browse
 ## Disclaimer
 
 This project is intended for educational and portfolio demonstration purposes. Predictions should support, not replace, appropriate business judgment.
-## 🚀 Live Demo
-
-Try the deployed application here: [Launch Customer Churn Explainer](https://customer-churn-explainer-wtnptvop6brxfgxncvxzer.streamlit.app/)
-
-Explore customer churn predictions, individual SHAP explanations, global feature importance, and business analytics.
