@@ -6,7 +6,15 @@ An end-to-end machine learning project that predicts customer churn, explains in
 [Launch Customer Churn Explainer](https://customer-churn-explainer-wtnptvop6brxfgxncvxzer.streamlit.app/)
 
 Explore customer churn predictions, individual SHAP explanations, global feature importance, and business analytics through the interactive dashboard.
+## 📸 Dashboard Preview
 
+![Customer Churn Explainer dashboard](outputs/dashboard_prediction.png)
+![Customer Churn Explainer dashboard](outputs/shap_local_waterfall.png)
+![Customer Churn Explainer dashboard](outputs/shap_summary.pngpng)
+![Customer Churn Explainer dashboard](outputs/shap_bar.png)
+![Customer Churn Explainer dashboard](outputs/model_perfomance.png)
+![Customer Churn Explainer dashboard](outputs/business_analytics(1).png)
+![Customer Churn Explainer dashboard](outputs/business_analytics(2).png)
 ## Project Overview
 
 Customer churn occurs when customers stop using a company's services. Identifying customers who may leave can help businesses prioritize customer support and retention efforts.
