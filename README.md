@@ -13,7 +13,7 @@ Explore customer churn predictions, individual SHAP explanations, global feature
 ![Customer Churn Explainer dashboard](outputs/shap_summary.png)
 ![Customer Churn Explainer dashboard](outputs/shap_bar.png)
 ![Customer Churn Explainer dashboard](outputs/model_perfomance.png)
-![Customer Churn Explainer dashboard](outputs/businees_analytics(1).png)
+![Customer Churn Explainer dashboard](outputs/business_analytics(1).png)
 ![Customer Churn Explainer dashboard](outputs/business_analytics(2).png)
 ## Project Overview
 
